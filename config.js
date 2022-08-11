@@ -7,23 +7,23 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.Owner = ['212609536856']
+global.OwnerNumber = ['212609536856']
+global.ownertag = ['212609536856']
+global.BotName = "ᶬᵉᵉᵈ᭄﹏ᴛᴀɴᴊɪʀᴏ…ʙᴏᴛ"
+global.packname = "[212609536856]"
+global.author = "By: ᴍᴇᴇᴅ"
+global.OwnerName = "ᴍᴇᴇᴅ"
+global.BotSourceCode = "https://github.com/killua207x/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
-global.sessionName = "session"
+global.sessionName = "NjMwcHJ5RGU="
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
 global.prefa = ['-'] 
 
 
-global.location = "West Bengal, India"
+global.location = "fes_meknes, Morocco"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
@@ -77,7 +77,7 @@ global.mess = {
 
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 1,
     monayawal: 1000
 }
    global.rpg = {
@@ -90,7 +90,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 1
 }
 
 
