@@ -72,7 +72,7 @@
 
 #### ✧ Next
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Killua207x/Miku-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Killua207x/Miku-MD1)
 
 
 ## ✧✧✧ Heroku Deployment Method 2:
